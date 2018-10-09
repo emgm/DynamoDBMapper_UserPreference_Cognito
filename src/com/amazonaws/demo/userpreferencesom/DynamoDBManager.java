@@ -235,7 +235,7 @@ public class DynamoDBManager {
 
     @DynamoDBTable(tableName = Constants.TEST_TABLE_NAME)
     public static class UserPreference {
-        
+
         private int userNo;
         private String firstName;
         private String lastName;

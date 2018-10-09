@@ -25,7 +25,7 @@ public class Constants {
     public static final Regions COGNITO_REGION = Regions.US_EAST_1;  // Set your Cognito region if is different
 
     // Note that spaces are not allowed in the table name
-    public static final String TEST_TABLE_NAME = "Usuarios";
+    public static final String TEST_TABLE_NAME = "UsuariosCol4.0";
     public static final Regions DYNAMODB_REGION = Regions.US_EAST_1;  // Set your DynamoDB region if is different
 
     public static final Random random = new Random();
