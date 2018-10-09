@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:3:5-51
+	android:versionName
+		ADDED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml
+		INJECTED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml
+		INJECTED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:7:5-73
+INJECTED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:7:5-73
+INJECTED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:7:5-73
+INJECTED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:7:5-73
+INJECTED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:7:5-73
+	android:targetSdkVersion
+		ADDED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:7:42-71
+		INJECTED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml
+		INJECTED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:7:15-41
+		INJECTED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml
+		INJECTED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:8:22-64
+application
+ADDED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:10:5-24:19
+	android:label
+		ADDED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:11:9-45
+activity#com.amazonaws.demo.userpreferencesom.UserPreferenceDemoActivity
+ADDED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:13:9-19:20
+	android:configChanges
+		ADDED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:14:13-63
+	android:name
+		ADDED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:13:19-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:15:10-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:17:27-74
+activity#com.amazonaws.demo.userpreferencesom.UserActivity
+ADDED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:20:9-21:75
+	android:configChanges
+		ADDED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:21:13-63
+	android:name
+		ADDED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:20:19-46
+activity#com.amazonaws.demo.userpreferencesom.UserListActivity
+ADDED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:22:9-23:75
+	android:configChanges
+		ADDED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:23:13-63
+	android:name
+		ADDED from C:\Users\DESARROLLO-0\AndroidStudioProjects\DynamoDBMapper_UserPreference_Cognito\AndroidManifest.xml:22:19-50

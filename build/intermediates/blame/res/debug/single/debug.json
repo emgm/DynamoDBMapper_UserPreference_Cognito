@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\DESARROLLO-0\\AndroidStudioProjects\\DynamoDBMapper_UserPreference_Cognito\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\DESARROLLO-0\\AndroidStudioProjects\\DynamoDBMapper_UserPreference_Cognito\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DESARROLLO-0\\AndroidStudioProjects\\DynamoDBMapper_UserPreference_Cognito\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DESARROLLO-0\\AndroidStudioProjects\\DynamoDBMapper_UserPreference_Cognito\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DESARROLLO-0\\AndroidStudioProjects\\DynamoDBMapper_UserPreference_Cognito\\build\\intermediates\\res\\merged\\debug\\layout_user_list_item.xml.flat",
+        "source": "C:\\Users\\DESARROLLO-0\\AndroidStudioProjects\\DynamoDBMapper_UserPreference_Cognito\\res\\layout\\user_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\DESARROLLO-0\\AndroidStudioProjects\\DynamoDBMapper_UserPreference_Cognito\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DESARROLLO-0\\AndroidStudioProjects\\DynamoDBMapper_UserPreference_Cognito\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DESARROLLO-0\\AndroidStudioProjects\\DynamoDBMapper_UserPreference_Cognito\\build\\intermediates\\res\\merged\\debug\\layout_user_preference.xml.flat",
+        "source": "C:\\Users\\DESARROLLO-0\\AndroidStudioProjects\\DynamoDBMapper_UserPreference_Cognito\\res\\layout\\user_preference.xml"
+    }
+]

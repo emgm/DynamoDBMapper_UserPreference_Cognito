@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\DESARROLLO-0\\AndroidStudioProjects\\DynamoDBMapper_UserPreference_Cognito\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\DESARROLLO-0\\AndroidStudioProjects\\DynamoDBMapper_UserPreference_Cognito\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "12,2,8,7,10,3,4,5,6,9",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "510,57,369,316,465,114,165,216,265,420",
+                        "endLines": "18,2,8,7,10,3,4,5,6,9",
+                        "endColumns": "19,55,49,51,41,49,49,47,49,43",
+                        "endOffsets": "702,108,414,363,502,159,210,259,310,459"
+                    },
+                    "to": {
+                        "startLines": "2,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,246,302,352,404,446,496,546,594,644",
+                        "endLines": "8,9,10,11,12,13,14,15,16,17",
+                        "endColumns": "19,55,49,51,41,49,49,47,49,43",
+                        "endOffsets": "241,297,347,399,441,491,541,589,639,683"
+                    }
+                }
+            ]
+        }
+    ]
+}
